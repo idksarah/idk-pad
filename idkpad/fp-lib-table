@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kailh")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/kailh-socket")(options "")(descr ""))
+  (lib (name "CC0603JRNPO9BN220")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/CC0603JRNPO9BN220")(options "")(descr ""))
+  (lib (name "niceview")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/nice_view")(options "")(descr ""))
+  (lib (name "jst-ph")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/S2B-PH-K-S_LF__SN_")(options "")(descr ""))
+  (lib (name "esp32-c3")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/ESP32-C3")(options "")(descr ""))
+  (lib (name "ul_1n4148")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/ul_1N4148W-7-F/footprints.pretty")(options "")(descr ""))
+  (lib (name "NX3225GA")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/NX3225GA-26MHZ-TI")(options "")(descr ""))
+)
