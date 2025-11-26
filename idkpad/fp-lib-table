@@ -7,4 +7,5 @@
   (lib (name "esp32-c3")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/ESP32-C3")(options "")(descr ""))
   (lib (name "ul_1n4148")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/ul_1N4148W-7-F/footprints.pretty")(options "")(descr ""))
   (lib (name "NX3225GA")(type "KiCad")(uri "C:/Users/sngai/Documents/GitHub/idk-pad/NX3225GA-26MHZ-TI")(options "")(descr ""))
+  (lib (name "switch_keyboard_hotswap_kailh")(type "KiCad")(uri "C:/Users/sngai/OneDrive - MSJE PTC/Documents/KiCad/9.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
 )
