@@ -25,3 +25,13 @@ decided to build a 4x4 macro pad with 2 rotary encoders and a nice!view display.
 my stupid ahh has nooooooooo clue what im doing
   
 
+## 11/3/2025 - footprint  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--8208433d60b1f157765ecdbc87eb0b5f0c3159ff/image.png)
+okieee attached footprints to symbols so gonna start wiring
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--44d614829344c56db8cb19294b9a4e274968b1d1/image.png)
+added all parts to aliexpress cart
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--40fe843ef980fbb99422008be3377b60e21854e6/image.png)
+okay i lied!!!!!!!!! did not start wiring spent the past hour redoing the layout and redoing footprints and stuff. went from 4x4 to 3x4 bc it was getting rly rlly big (more than half a keyboard 💀). start wiring tmrw
+  
+
